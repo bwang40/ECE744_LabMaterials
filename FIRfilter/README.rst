@@ -4,22 +4,31 @@ FIR filter implementation and simulation
 
 Introduction
 =======================
-This project is for those who have already done the four labs
+For those who are already familiar with FPGA design, you can optionally do this project to implement a FIR filter with VHDL.
 
-In this project you are required to design a FIR filter and simulate it in the Vivado. You have to finish the code in FIR.vhd and get the simulation running.
+In this project you are required to design a FIR filter and simulate it in the Vivado. You have to finish the code in ./Src/FIR.vhd and get the simulation running. 
 
-In stimuli.txt is a timedomain signal with 8 frequency components sampled at the frequency of 100kHz.
+Note: Don't ask question before Googling, if you cannot figure the provided code out, please follow the four labs in the main site.
+
+
+Procedures
+=================
+
+In ./Src/stimuli.txt is a time domain signal with 8 frequency components sampled at the frequency of 100kHz.
 
 .. image:: ./images/timedomain.png
    :height: 100px
    :align: center
 
-The following figure is the spectrum of the signal in stimuli.
+The following figure is the spectrum of the signal in stimuli. There are 8 frequency components in it.
 
 .. image:: ./images/spectrum.png
    :height: 100px
    :align: center
 
+You have to design a low pass FIR filter to remove six frequency components with higher frequencies.
 
-There are 8 frequency components in the signal presented in the stimuli.txt, You have to design a low pass FIR filter to remove six frequency components with higher frequency.
+After you design FIR filter coefficients in python or matlab, you are required to implement a FIR filter with VHDL code and complete the ./Src/FIR.vhd. A testbench allows you to simulate the code in Vivado.
+
+On March 27th, you have to submit a report with the screenshot of the simulation.
 
