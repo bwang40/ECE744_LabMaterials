@@ -10,13 +10,13 @@ In this project you are required to design a FIR filter and simulate it in the V
 
 In stimuli.txt is a timedomain signal with 8 frequency components sampled at the frequency of 100kHz.
 
-.. image:: ./image/timedomain.png
+.. image:: ./images/timedomain.png
    :height: 100px
    :align: center
 
 The following figure is the spectrum of the signal in stimuli.
 
-.. image:: ./image/spectrum.png
+.. image:: ./images/spectrum.png
    :height: 100px
    :align: center
 
