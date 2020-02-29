@@ -67,4 +67,4 @@ You must acknowledge your work including figures, codes and writings are belongi
 
 Lab open Hours
 ========================
-From March 2nd to March 27th, the lab SH310B will be open on weekdays except each thursday and spring break from 10am to 5pm. Please arrange your time wisely.
+From March 2nd to March 27th, the lab SH310B will be open on weekdays except each Friday and spring break from 10am to 5pm. Please arrange your time wisely.
