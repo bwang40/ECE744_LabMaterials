@@ -62,3 +62,8 @@ Academic Honesty
 You must acknowledge your work including figures, codes and writings are belonging to you with your signature on the front page of all submitted reports. If any similarity in the code, comments, customized program behavior, report writings and/or figures are found, both the helper (original work) and the requestor (duplicated/modified work) will be called for academic disciplinary action including failure of this course, and student's advisor/department will be notified.
 
 `Illinois Tech Code of Academic Honesty <https://web.iit.edu/student-affairs/handbook/fine-print/code-academic-honesty>`_
+
+
+Lab open Hours
+========================
+From March 2nd to March 27th, the lab will be open on weekdays except each thursday and spring break from 10am to 5pm. Please arrange your time wisely.
