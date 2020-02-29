@@ -1,5 +1,5 @@
 ********************************************************
-ECE744 Lab Materials for Oct 19th lab (Spring 2020)
+ECE744 Lab Materials (Spring 2020)
 ********************************************************
 
 .. contents:: Table of Contents
