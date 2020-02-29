@@ -24,19 +24,19 @@ lab 1
 ----------
 In this lab, you will design and build a simple code converter circuit using the Nexys 4 DDR Development board, which is designed around the Xilinx Artix-7. During this laboratory, you will gain experience using the Xilinx Vivado digital circuit development tools.
 
-Requirement: Successfully running the code provide in https://github.com/bwang40/ECE742_LabMaterials/tree/master/Labs_CheatSheet/Lab1
+Requirement: Successfully running the code provide in https://github.com/bwang40/ECE744_LabMaterials/tree/master/Labs_CheatSheet/Lab1
 
 lab 2
 ----------
 In this lab, you will design and program a four-bit ripple-carry adder/subtractor circuit using modular design techniques.  All of the necessary VHDL coding concepts and procedures will be introduced in the laboratory and implemented by the experimenter.
 
-Requirement: Complete the code provided in https://github.com/bwang40/ECE742_LabMaterials/tree/master/Labs_CheatSheet/Lab2 and successfully run it on the FPGA board.
+Requirement: Complete the code provided in https://github.com/bwang40/ECE744_LabMaterials/tree/master/Labs_CheatSheet/Lab2 and successfully run it on the FPGA board.
 
 lab 8
 ----------
 In this lab, you will learn how to design Finite State Machines with VHDL. Typically, traffic light control is a field dominated by micro-controllers. Very complex timing of these lights can be handled with some simple software running on off-the-shelf products. For very simple traffic lights, however, it may be possible to implement their timing functionality with simple sequential logic circuits. In this lab, you will design and implement two traffic light controller circuits using the Nexys 4 DDR board.
 
-Requirement: Complete the code provided in https://github.com/bwang40/ECE742_LabMaterials/tree/master/Labs_CheatSheet/Lab8 and successfully run it on the FPGA board.
+Requirement: Complete the code provided in https://github.com/bwang40/ECE744_LabMaterials/tree/master/Labs_CheatSheet/Lab8 and successfully run it on the FPGA board.
 
 
 lab 9
