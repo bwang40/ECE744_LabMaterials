@@ -29,7 +29,7 @@ You have to design a low pass FIR filter to remove six frequency components with
 
 After you design FIR filter coefficients in python or matlab, you are required to implement a FIR filter with VHDL code and complete the ./Src/FIR.vhd. A testbench is provided for you to simulate your code in Vivado. A logiCORE IP FIR Compiler is integrated in Vivado alaready. Feel free to use any library or online resources.
 
-In the lab report, you have to show evidence of the simulation result and filter design procedures, digital filter response, and simulation output analysis.
+In the lab report, you have to show evidence of the simulation result, filter design procedures, digital filter response, and simulation output analysis.
 
 report
 ======================
