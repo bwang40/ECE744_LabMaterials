@@ -50,12 +50,12 @@ Lab Report
 ======================
 You have to submit a lab report for these four labs through blackboard. The lab report has to include the following sections:
 
-  *Introduction
-  *procedures
-  *Results
-  *Discussion/Conclusion
-  *Reference
-  *Appendix(code and screenshots)
+     *Introduction
+     *procedures
+     *Results
+     *Discussion/Conclusion
+     *Reference
+     *Appendix(code and screenshots)
 
 Academic Honesty
 ========================
